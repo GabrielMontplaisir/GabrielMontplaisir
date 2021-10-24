@@ -74,9 +74,9 @@ body {
 }
 
 img {
-  width:100%;
-  height:100%;
-  object-fit:contain;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
 }
 
 /* TEXT */
@@ -87,7 +87,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #000;
+  color: red;
   font: 16px/24px arial, sans-serif, normal;
 }
 
