@@ -19,7 +19,7 @@ limitations under the License.
 /* CONTAINERS */
 
 body {
-  color: #222;
+  color: #fff;
   font: 13px/18px arial, sans-serif;
   margin: 0;
 }
@@ -87,7 +87,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #fff;
+  color: #000;
   font: 16px/24px arial, sans-serif, normal;
 }
 
